@@ -62,7 +62,7 @@ This project demonstrates how machine learning can provide **actionable insights
 ## 📸 Demo
 
 A quick walkthrough of this project is available on my [LinkedIn post](#)  
-📂 GitHub: [[Link to this repository]](https://github.com/genuineinsaan/CodeAlpha_IrisFlowerClassification.git)
+📂 GitHub: [[Link to this repository]](https://github.com/genuineinsaan/CodeAlpha_SalesPrediction.git)
 
 ---
 
