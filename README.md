@@ -62,6 +62,7 @@ This project demonstrates how machine learning can provide **actionable insights
 ## 📸 Demo
 
 A quick walkthrough of this project is available on my [LinkedIn post](https://www.linkedin.com/posts/shashank-srivastava-58269b281_codealpha-salesprediction-regressionmodel-activity-7347490689082892288-1buR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESffnIBDh79S70FAApN1S-hCSb2FmhSRto)
+
 📂 GitHub: [[Link to this repository]](https://github.com/genuineinsaan/CodeAlpha_SalesPrediction.git)
 
 ---
